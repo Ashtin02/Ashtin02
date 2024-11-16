@@ -1,6 +1,7 @@
 -  Hi, I’m Ashtin
 -  I’m interested in Development, programming, and just about anything tech related!
--  I’m currently learning data structures, analysis of algorithms, HTML, and others!
+-  I’m currently learning React and Project management!
+-  I have experience with Java, Python, Git, Web development, SQL, JavaScript, and much more! 
 -  I’m looking to network to anyone in the tech feild so please reach out!
 -  How to reach me: ashtinrivada@yahoo.com 
 -  Pronouns: He/Him
