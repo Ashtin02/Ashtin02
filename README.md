@@ -3,9 +3,9 @@
 -  I’m currently learning React and Project management!
 -  I have experience with Java, Python, Git, Web development, SQL, JavaScript, and much more! 
 -  I’m looking to network to anyone in the tech feild so please reach out!
--  How to reach me: ashtinrivada@yahoo.com 
+-  How to reach me: ashtinrivada@gmail.com 
 -  Pronouns: He/Him
--  Fun fact: I am 21 and love to play basketball. 
+-  Fun fact: I am 22 and love to play basketball. 
 
 <!---
 Ashtin02/Ashtin02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
